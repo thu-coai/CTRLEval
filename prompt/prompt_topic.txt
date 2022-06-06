@@ -1,0 +1,32 @@
+<gen_result> News: <mask_token>
+News: <mask_token> <gen_result>
+<gen_result> Article: <mask_token>
+Article: <mask_token> <gen_result>
+<gen_result> Summary: <mask_token>
+Summary: <mask_token> <gen_result>
+<gen_result> Report: <mask_token>
+Report: <mask_token> <gen_result>
+<gen_result> It was about <mask_token>.
+It was about <mask_token>. <gen_result>
+<gen_result> It was around <mask_token>.
+It was around <mask_token>. <gen_result>
+<gen_result> It was related to <mask_token>.
+It was related to <mask_token>. <gen_result>
+<gen_result> It was towards <mask_token>.
+It was towards <mask_token>. <gen_result>
+<gen_result> It was a piece of <mask_token> news.
+It was a piece of <mask_token> news. <gen_result>
+<gen_result> It was a <mask_token> article.
+It was a <mask_token> article. <gen_result>
+<gen_result> It was a <mask_token> summary.
+It was a <mask_token> summary. <gen_result>
+<gen_result> It was a <mask_token> report.
+It was a <mask_token> report. <gen_result>
+<gen_result> What <mask_token> news!
+What <mask_token> news! <gen_result>
+<gen_result> What a <mask_token> article!
+What a <mask_token> article! <gen_result>
+<gen_result> What a <mask_token> summary!
+What a <mask_token> summary! <gen_result>
+<gen_result> What a <mask_token> report!
+What a <mask_token> report! <gen_result>

@@ -1,0 +1,24 @@
+<gen_result> In summary, it was <mask_token>.
+In summary, it was <mask_token>. <gen_result>
+<gen_result> To sum up, it was <mask_token>.
+To sum up, it was <mask_token>. <gen_result>
+<gen_result> All in all, it was <mask_token>.
+All in all, it was <mask_token>. <gen_result>
+<gen_result> In brief, it was <mask_token>.
+In brief, it was <mask_token>. <gen_result>
+<gen_result> It was <mask_token>.
+It was <mask_token>. <gen_result>
+<gen_result> It seems <mask_token>.
+It seems <mask_token>. <gen_result>
+<gen_result> It appears <mask_token>.
+It appears <mask_token>. <gen_result>
+<gen_result> It becomes <mask_token>.
+It becomes <mask_token>. <gen_result>
+<gen_result> Really <mask_token>!
+Really <mask_token>! <gen_result>
+<gen_result> Just <mask_token>!
+Just <mask_token>! <gen_result>
+<gen_result> Actually <mask_token>!
+Actually <mask_token>! <gen_result>
+<gen_result> So <mask_token>!
+So <mask_token>! <gen_result>

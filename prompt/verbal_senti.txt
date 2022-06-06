@@ -1,0 +1,4 @@
+negative	positive
+bad	good
+negative	positive
+terrible	great
